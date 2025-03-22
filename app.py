@@ -11,7 +11,7 @@ class PostgreSQLApp:
             'host': 'localhost',
             'database': 'mydatabase',
             'user': 'postgres',
-            'password': 'root@123',
+            'password': '',
             'port': '5432'
         }
         
